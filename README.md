@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./img/banner.jpg" alt="Hafsha's GitHub Banner"/>
+</p>
+
 <h1 align="center">👋 Assalamu Alaikum! I'm Hafsha</h1>
 
 <p align="center">
